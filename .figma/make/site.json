@@ -1,0 +1,12 @@
+{
+  "title": "رشاد هوم | أثاث فاخر",
+  "description": "رشاد هوم — أثاث فاخر يجمع بين الذوق الراقي والجودة العالية بحرفية عراقية أصيلة منذ ٢٠٠٩. تصفح الكولكشن واحجز استشارة تصميم مجانية.",
+  "language": "ar",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
